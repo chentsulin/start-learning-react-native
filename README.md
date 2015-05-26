@@ -2,3 +2,4 @@
 - 02 Local and Network Image
 - 03 TextInput
 - 04 Routing (NavigatorIOS)
+- 05 ES6 Component
