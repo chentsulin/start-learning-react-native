@@ -3,3 +3,7 @@
 - 03 TextInput
 - 04 Routing (NavigatorIOS)
 - 05 ES6 Component
+- 06 Button (TouchableHighlight)
+- 07 Fetch API
+- 08 Superagent API
+
