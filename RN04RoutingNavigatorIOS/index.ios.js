@@ -16,7 +16,6 @@ var {
 
 var RN04RoutingNavigatorIOS = React.createClass({
   render: function() {
-    console.log(MainApp)
     return (
       <NavigatorIOS
         style={styles.container}
