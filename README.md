@@ -6,4 +6,7 @@
 - 06 Button (TouchableHighlight)
 - 07 Fetch API
 - 08 Superagent API
+- 09 Navigator Push Pop (NavigatorIOS)
+- 10 Loading (ActivityIndicatorIOS)
+- 11 DatePicker (DatePickerIOS)
 
